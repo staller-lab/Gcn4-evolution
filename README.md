@@ -24,7 +24,7 @@ Controls_oct024.ipynb
 
 
 Full_Length_TFs_Heatmaps_Fall 2024.ipynb
-S- cript to make heatmaps of full-length orthologs 
+- Script to make heatmaps of full-length orthologs 
 
 
 Sensu strictu v2.ipynb

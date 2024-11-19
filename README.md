@@ -22,6 +22,8 @@ Controls_oct024.ipynb
 - Barplots for control sequences
 - Reproducibility analysis
 
+EC_Sog1_GCN4analysis_LeBlanc2024.ipynb
+- Phophomutant (Phosphomimetic, Phosphonull) activity traces
 
 Full_Length_TFs_Heatmaps_Fall 2024.ipynb
 - Script to make heatmaps of full-length orthologs 

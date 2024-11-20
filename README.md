@@ -41,4 +41,7 @@
 - Support functions for visualizing data
 
 **FigureS16_clusteringADs.ipynb**
-- Clusters activation domain sequences and compares those with the WxxLF motif to those without the motif. 
+- Clusters activation domain sequences and compares those with the WxxLF motif to those without the motif.
+
+**FigureS3_WLF_sequence_logos.ipynb**
+- Creates sequence logos for regions around the WxxLF motif

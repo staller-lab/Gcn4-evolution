@@ -39,3 +39,6 @@ Gaussian_Threshold.ipynb
 
 YeastAnalysisfunctions.py
 - Support functions for visualizing data
+
+FigureS16_clusteringADs.ipynb
+- Clusters activation domain sequences and compares those with the WxxLF motif to those without the motif. 

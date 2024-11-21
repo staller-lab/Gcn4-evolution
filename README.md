@@ -55,3 +55,7 @@
 
 **FigureS14_activitiess_on_species_tree.ipynb**
 - Plots heatmaps of smoothed tile activities on the estimated gene tree
+
+**FigureS7_gain_loss_F.ipynb**
+- Plots a subset of the ygob alignment on the species and gene tree
+- Highlights the F residues in the alignment

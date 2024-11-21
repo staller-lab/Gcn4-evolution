@@ -50,5 +50,8 @@
 - Creates sequence logos and alignment bar plots fir region around the WxxLF motif
 - Also creates html file of the alignment with given colors
 
-**FigureS14_activitiess_on_species_tree.ipynb**
+**FigureS13_activitiess_on_gene_tree.ipynb**
 - Plots heatmaps of smoothed tile activities on the y1000+ species tree
+
+**FigureS14_activitiess_on_species_tree.ipynb**
+- Plots heatmaps of smoothed tile activities on the estimated gene tree

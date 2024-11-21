@@ -62,3 +62,6 @@
 
 **FigureS31_finches.ipynb**
 - Uses finches to calculate the attraction and repulsion between tiles and Med15
+
+**FigureS23_helix_prediction.ipynb**
+- Predicts the helical propensity of the top 138 most active sequences

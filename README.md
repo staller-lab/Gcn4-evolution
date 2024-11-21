@@ -59,3 +59,6 @@
 **FigureS7_gain_loss_F.ipynb**
 - Plots a subset of the ygob alignment on the species and gene tree
 - Highlights the F residues in the alignment
+
+**FigureS31_finches.ipynb**
+- Uses finches to calculate the attraction and repulsion between tiles and Med15

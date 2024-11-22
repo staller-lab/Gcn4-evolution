@@ -76,3 +76,6 @@
 
 **War1_analysis.ipynb**
 - The same as Ino2 analysis but for War1
+
+**Pdr1_analysis.ipynb**
+- Makes alignment conservation plot for active Pdr1 sequences from Sanborn et al. 2021

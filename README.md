@@ -70,3 +70,6 @@
 - Describes how to perform the hmmer search used to identify Ino2 orthologs
 - Filters Ino2 orthologs based on domains and a reverse blast search
 - Creates an alignment conservation plot
+
+**Ino4_analysis.ipynb**
+- The same as Ino2 analysis but for Ino4

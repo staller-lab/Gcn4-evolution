@@ -53,7 +53,13 @@
 - Describes how to perform the hmmer search used to identify Ino2 orthologs
 - Filters Ino2 orthologs based on domains and a reverse blast search
 - Creates an alignment conservation plot
-  
+
+**Ino4_analysis.ipynb**
+- The same as Ino2 analysis but for Ino4
+
+**Pdr1_analysis.ipynb**
+- Makes alignment conservation plot for active Pdr1 sequences from Sanborn et al. 2021
+
 **Sensu strictu v2.ipynb**
 - Plot activity traces of S. cerevisiae and closest species
 
@@ -61,14 +67,10 @@
 - Combines the data from the two replicates.
 - Computes many sequence features, like net charge.
 
+**War1_analysis.ipynb**
+- The same as Ino2 analysis but for War1
+  
 **YeastAnalysisfunctions.py**
 - Support functions for visualizing data
 
-**Ino4_analysis.ipynb**
-- The same as Ino2 analysis but for Ino4
 
-**War1_analysis.ipynb**
-- The same as Ino2 analysis but for War1
-
-**Pdr1_analysis.ipynb**
-- Makes alignment conservation plot for active Pdr1 sequences from Sanborn et al. 2021

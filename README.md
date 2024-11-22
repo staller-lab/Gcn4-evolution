@@ -65,3 +65,8 @@
 
 **FigureS23_helix_prediction.ipynb**
 - Predicts the helical propensity of the top 138 most active sequences
+
+**Ino2_analysis.ipynb**
+- Describes how to perform the hmmer search used to identify Ino2 orthologs
+- Filters Ino2 orthologs based on domains and a reverse blast search
+- Creates an alignment conservation plot

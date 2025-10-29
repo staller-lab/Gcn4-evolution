@@ -14,26 +14,19 @@ ADD dN/dS
 - This script explores how sequence properties, like AA abundance or motif locations, contribute to activation domain activity.
 - Contains main figure panels
 
-`Figure5_alignment_visualization.ipynb` (CJL - to remove)
-- Creates sequence logos and alignment bar plots fir region around the WxxLF motif
-- Also creates html file of the alignment with given colors
-
-`alignment_visualization.ipynb` (CJL - to add) 
+`alignment_visualization.ipynb` (CJL - updated) 
 - Creates plots in Figure 5 to visualize the alignment of the central activation domain for all unique sequences in that region (138) and the most active sequences (69).
 - Creates conservation barplot, sequence logos, and an html of the sequence alignment.
 
-`Random_N_term_explore.ipynb` (CJL - to add) 
+`Random_N_term_explore.ipynb` (CJL - updated) 
 - Creates plots in Figure 6 comparing closely related homologs
 - Compares pairs of sequences that differ in N-terminal activity.
 - Creates activity traces for these sequences and highlights regions of difference.
 
-`counting_N_term_ADs.ipynb` (CJL - to add)
+`counting_N_term_ADs.ipynb` (CJL - updated)
 - Creates tree plot in Figure 6
 - Counts the number of N-term ADs by either combining overlapping active tiles or counting the number of peaks in the smoothed activity traces
 - Plots the count of N-terminal ADs using both methods on the gene and species trees
-
-`FigureS3_WLF_sequence_logos.ipynb` (CJL)
-- Creates sequence logos for regions around the WxxLF motif
 
 `FigureS23_helix_prediction.ipynb` (CJL)
 - Predicts the helical propensity of the top 138 most active sequences
@@ -43,24 +36,24 @@ ADD dN/dS
   
 ## Supplemental Figures
 
-`motifs_on_tree.ipynb` (CJL - to add)
+`motifs_on_tree.ipynb` (CJL - updated)
 - Supplemental Figure X 
 - Creates figure with the motifs on the gene and species trees
 - Creates figure with the alignment of the central AD on the tree, highlighting gain of the FF motif
 
-`Ino2_search_analysis.ipynb` (CJL - to add)
+`Ino2_search_analysis.ipynb` (CJL - updated)
 - Supplemental Figure X
 - For Ino2 homologs (identified by the Y1000+ project), identify AD regions and create plot of conservation within AD.
 - AD is identified using a consensus approach (at least 3/5 AD predictors must predict the region as active).
 - Additionally, if there are multiple ADs per TF, we only include the last one, as this corresponds to the cerevisiae Ino2 AD. 
 
-`War1_search_analysis.ipynb` (CJL - to add)
+`War1_search_analysis.ipynb` (CJL - updated)
 - Supplemental Figure X
 - For War1 homologs (identified by the Y1000+ project), identify AD regions and create plot of conservation within AD.
 - AD is identified using a consensus approach (at least 3/5 AD predictors must predict the region as active).
 - Additionally, if there are multiple ADs per TF, we only include the last one, as this corresponds to the cerevisiae War1 AD. 
 
-`Met4_search_analysis.ipynb` (CJL - to add)
+`Met4_search_analysis.ipynb` (CJL - updated)
 - Supplemental Figure X
 - For Met4 homologs (identified by the Y1000+ project), identify AD regions and create plot of conservation within AD.
 - AD is identified using a consensus approach (at least 3/5 AD predictors must predict the region as active).
@@ -70,6 +63,9 @@ ADD dN/dS
 - Supplemental Figure X
 - Creates a figure with the number of SP and TP motifs in the central AD (the region surrounding the WxxLF motif) on the gene tree. 
 
+`tile_diversity.ipynb` (CJL - added)
+- Supplemental Figure X
+  
 `Controls_oct024.ipynb` (MVS) 
 - Barplots for control sequences
 - Reproducibility analysis
@@ -80,19 +76,8 @@ ADD dN/dS
 `FigureS14_activitiess_on_species_tree.ipynb` (CJL - to update)
 - Plots heatmaps of smoothed tile activities on the estimated gene tree
 
-`Ino2_analysis.ipynb` (CJL - remove) 
-- Describes how to perform the hmmer search used to identify Ino2 orthologs
-- Filters Ino2 orthologs based on domains and a reverse blast search
-- Creates an alignment conservation plot
-
-`Ino4_analysis.ipynb` (CJL - remove) 
-- The same as Ino2 analysis but for Ino4
-
-`Pdr1_analysis.ipynb` (CJL - update) 
-- Makes alignment conservation plot for active Pdr1 sequences from Sanborn et al. 2021
-
-`War1_analysis.ipynb` (CJL - remove) 
-- The same as Ino2 analysis but  for War1
+`counting_motifs.ipynb` (CJL - added)
+- Supplemental Figure X
   
 ## Other important analyses
 
@@ -112,10 +97,10 @@ ADD dN/dS
 `YeastAnalysisfunctions.py`
 - Support functions for visualizing data
 
-`longest_gene_per_species.ipynb` (CJL - to add) 
+`longest_gene_per_species.ipynb` (CJL - updated) 
 - Gets the longest gene per species (124 total). Creates fasta file and pickled object of these sequences. 
 
-`make_species_tree.ipynb` (CJL - to add) 
+`make_species_tree.ipynb` (CJL - updated) 
 - Creates a species tree for the species used in our screen.
 - Starts with the tree from mycocosm and adds clades from the y1000+ tree for species not present in mycososm tree.
 - Note that because we are merging trees estimated with different programs, branch lengths are not meaningful

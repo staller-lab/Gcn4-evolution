@@ -2,7 +2,7 @@
 
 ## Main text figures
 
-`alignment_conservation.ipynb` (CJL - to add) 
+`alignment_conservation.ipynb` (CJL - updated) 
 - Creates plots for figure 1
 - Performs pairwise alignments of all 502 sequences and calculates percent identity (including gaps) and alignment score.
 - Also does this for the AD regions separately (DBD, length matched central AD, length matched upstream DBD region, IDR).

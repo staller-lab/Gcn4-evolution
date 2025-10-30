@@ -3,53 +3,54 @@
 ## Main text figures
 
 `alignment_conservation.ipynb` (CJL - updated) 
-- Creates plots for figure 1
+- Creates plots for **figure 1**
 - Performs pairwise alignments of all 502 sequences and calculates percent identity (including gaps) and alignment score.
 - Also does this for the AD regions separately (DBD, length matched central AD, length matched upstream DBD region, IDR).
 - Also performs shuffles as a control.
 
 `analyze_paml_result.ipynb` (CJL - updated)
-- Creates dN/dS plot for figure 1
+- Creates dN/dS plot for **figure 1**********
 - dN/dS was analysis run in PAML yn00, loads results and plots distribution  
 
 Figure 2 plots
 
 `AD_properties Fall 2024.ipynb` (MVS)
-- Creates plots for Figure 3
+- Creates plots for **Figure 3**
 - This script explores how sequence properties, like AA abundance or motif locations, contribute to activation domain activity.
 - Contains main figure panels
 
 `Full_Length_TFs_Heatmaps_Fall 2024.ipynb` (MVS)
-- Creates Figure 4 plot, Figure 1B, Figure 2F,G
+- Creates **Figure 4** plot, **Figure 1B**, **Figure 2F,G**
 - Script to make heatmaps of full-length orthologs
 
 `evolver_simulations.ipynb` (CJL - added)
-- Creates Figure 5A
+- Creates **Figure 5** plot
 - Loads in simulation results from evolver in PAML and FoldX and summarizes activites
 
 `AD_AlignmentDists.ipynb` (MVS)
-- Creates Figure 5B
+- Creates **Figure 5** plot
 - This script looks at the Edit distances between pairs of sequences. It shows that many changes in sequence do not change activity.
   
 `alignment_visualization.ipynb` (CJL - updated) 
-- Creates Figure 5C, D, Supplemental Figure X
+- Creates **Figure 5** plots, Supplemental Figure X
 - Creates plots in Figure 5 to visualize the alignment of the central activation domain for all unique sequences in that region (138) and the most active sequences (69).
 - Creates conservation barplot, sequence logos, and an html of the sequence alignment.
 
 `Random_N_term_explore.ipynb` (CJL - updated) 
-- Creates plots in Figure 6 comparing closely related homologs
+- Creates plots in **Figure 6** comparing closely related homologs
 - Compares pairs of sequences that differ in N-terminal activity.
 - Creates activity traces for these sequences and highlights regions of difference.
 
 `counting_N_term_ADs.ipynb` (CJL - updated)
-- Creates tree plot in Figure 6
+- Creates tree plot in **Figure 6**
 - Counts the number of N-term ADs by either combining overlapping active tiles or counting the number of peaks in the smoothed activity traces
 - Plots the count of N-terminal ADs using both methods on the gene and species trees
 
 `FigureS23_helix_prediction.ipynb` (CJL)
+- Creats plots in **Figure 6** 
 - Predicts the helical propensity of the top 138 most active sequences
 
-
+Figure 7 - ADD
   
 ## Supplemental Figures
 

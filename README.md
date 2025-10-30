@@ -8,7 +8,7 @@
 - Also does this for the AD regions separately (DBD, length matched central AD, length matched upstream DBD region, IDR).
 - Also performs shuffles as a control.
 
-`analyze_paml_result.ipynb` (CJL - to add)
+`analyze_paml_result.ipynb` (CJL - updated)
 - Creates dN/dS plot for figure 1
 - dN/dS was analysis run in PAML yn00, loads results and plots distribution  
   
@@ -61,7 +61,7 @@
 - AD is identified using a consensus approach (at least 3/5 AD predictors must predict the region as active).
 - Additionally, if there are multiple ADs per TF, we only include the last one, as this corresponds to the cerevisiae Met4 AD. 
 
-`SP_on_tree.ipynb` (CJL - to add) 
+`SP_on_tree.ipynb` (CJL - updated) 
 - Supplemental Figure X
 - Creates a figure with the number of SP and TP motifs in the central AD (the region surrounding the WxxLF motif) on the gene tree. 
 
@@ -81,7 +81,7 @@
 `counting_motifs.ipynb` (CJL - added)
 - Supplemental Figure X
 
-`make_activity_traces.ipynb` (CJL - to add)
+`make_activity_traces.ipynb` (CJL - updated)
 - Supplemental Figure X
 - Plots the trace (along with AD count) for each ful length sequence
   

@@ -85,10 +85,11 @@ Figure 2 plots
 - Creates a figure with the number of SP and TP motifs in the central AD (the region surrounding the WxxLF motif) on the gene tree. 
 
 `tile_diversity.ipynb` (CJL - added)
-- Creates plots in **Supplemental Figure X**
+- Creates plot in **Figure S3**
+- Calculates pairwise edit distance between all tiles and active tiles
   
 `Controls_oct024.ipynb` (MVS) 
-- Creates plots in **Figure S2**
+- Creates plots in **Figure S2**, **Figure S4**
 - Barplots for control sequences
 - Reproducibility analysis
 

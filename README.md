@@ -20,7 +20,7 @@ Figure 2 plots
 - Contains main figure panels
 
 `Full_Length_TFs_Heatmaps_Fall 2024.ipynb` (MVS)
-- Creates **Figure 4** plot, **Figure 1B**, **Figure 2F,G**
+- Creates **Figure 4** plot, **Figure 1B**, **Figure 2F,G**, **Figure S1**
 - Script to make heatmaps of full-length orthologs
 
 `evolver_simulations.ipynb` (CJL - added)
@@ -32,7 +32,7 @@ Figure 2 plots
 - This script looks at the Edit distances between pairs of sequences. It shows that many changes in sequence do not change activity.
   
 `alignment_visualization.ipynb` (CJL - updated) 
-- Creates **Figure 5** plots, Supplemental Figure X
+- Creates **Figure 5** plots, **Supplemental Figure X**
 - Creates plots in Figure 5 to visualize the alignment of the central activation domain for all unique sequences in that region (138) and the most active sequences (69).
 - Creates conservation barplot, sequence logos, and an html of the sequence alignment.
 
@@ -88,7 +88,7 @@ Figure 2 plots
 - Creates plots in **Supplemental Figure X**
   
 `Controls_oct024.ipynb` (MVS) 
-- Creates plots in **Supplemental Figure X**
+- Creates plots in **Figure S2**
 - Barplots for control sequences
 - Reproducibility analysis
 

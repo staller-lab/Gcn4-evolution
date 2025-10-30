@@ -106,6 +106,10 @@ Figure 2 plots
 `make_activity_traces.ipynb` (CJL - updated)
 -  Creates plots in **Supplemental Figure X**
 - Plots the trace (along with AD count) for each ful length sequence
+
+`predict-tiles.py` (GH - added)
+- Runs FINCHES on tiles and ABD1 domain of Med15
+- Data used in **Supplemental Figure X**
   
 ## Other important analyses
 
@@ -138,19 +142,8 @@ ADD PAML scripts
 `EC_Sog1_GCN4analysis_LeBlanc2024.ipynb`
 - Phophomutant (Phosphomimetic, Phosphonull) activity traces
 
-`FigureS16_clusteringADs.ipynb`
-- Clusters activation domain sequences and compares those with the WxxLF motif to those without the motif.
-
-`FigureS31_finches.ipynb`
-- GET FROM GEAN
-- Uses finches to calculate the attraction and repulsion between tiles and Med15
-
 `Sensu strictu v2.ipynb`
 - Plot activity traces of S. cerevisiae and closest species
-  
-`FigureS7_gain_loss_F.ipynb`
-- Plots a subset of the ygob alignment on the species and gene tree
-- Highlights the F residues in the alignment
 
   
 

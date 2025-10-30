@@ -50,55 +50,61 @@ Figure 2 plots
 - Creats plots in **Figure 6** 
 - Predicts the helical propensity of the top 138 most active sequences
 
-Figure 7 - ADD
+`generate_mutations_TADA.ipynb` (CJL - added)
+- Creates plots in **Figure 7**
+- Generates all possible F->A mutations (single, double, etc.) and calculates change in activity 
+- Calculates change in activity for single mutants based on alignment position
   
 ## Supplemental Figures
 
 `motifs_on_tree.ipynb` (CJL - updated)
-- Supplemental Figure X 
+- Creates plots in **Supplemental Figure X**
 - Creates figure with the motifs on the gene and species trees
 - Creates figure with the alignment of the central AD on the tree, highlighting gain of the FF motif
 
 `Ino2_search_analysis.ipynb` (CJL - updated)
-- Supplemental Figure X
+- Creates plots in **Supplemental Figure X**
 - For Ino2 homologs (identified by the Y1000+ project), identify AD regions and create plot of conservation within AD.
 - AD is identified using a consensus approach (at least 3/5 AD predictors must predict the region as active).
 - Additionally, if there are multiple ADs per TF, we only include the last one, as this corresponds to the cerevisiae Ino2 AD. 
 
 `War1_search_analysis.ipynb` (CJL - updated)
-- Supplemental Figure X
+- Creates plots in **Supplemental Figure X**
 - For War1 homologs (identified by the Y1000+ project), identify AD regions and create plot of conservation within AD.
 - AD is identified using a consensus approach (at least 3/5 AD predictors must predict the region as active).
 - Additionally, if there are multiple ADs per TF, we only include the last one, as this corresponds to the cerevisiae War1 AD. 
 
 `Met4_search_analysis.ipynb` (CJL - updated)
-- Supplemental Figure X
+- Creates plots in **Supplemental Figure X**
 - For Met4 homologs (identified by the Y1000+ project), identify AD regions and create plot of conservation within AD.
 - AD is identified using a consensus approach (at least 3/5 AD predictors must predict the region as active).
 - Additionally, if there are multiple ADs per TF, we only include the last one, as this corresponds to the cerevisiae Met4 AD. 
 
 `SP_on_tree.ipynb` (CJL - updated) 
-- Supplemental Figure X
+- Creates plots in **Supplemental Figure X**
 - Creates a figure with the number of SP and TP motifs in the central AD (the region surrounding the WxxLF motif) on the gene tree. 
 
 `tile_diversity.ipynb` (CJL - added)
-- Supplemental Figure X
+- Creates plots in **Supplemental Figure X**
   
 `Controls_oct024.ipynb` (MVS) 
+- Creates plots in **Supplemental Figure X**
 - Barplots for control sequences
 - Reproducibility analysis
 
 `FigureS13_activitiess_on_gene_tree.ipynb` (CJL - to update) 
+- Creates plots in **Supplemental Figure X**
 - Plots heatmaps of smoothed tile activities on the y1000+ species tree
 
 `FigureS14_activitiess_on_species_tree.ipynb` (CJL - to update)
+- Creates plots in **Supplemental Figure X**
 - Plots heatmaps of smoothed tile activities on the estimated gene tree
 
 `counting_motifs.ipynb` (CJL - added)
-- Supplemental Figure X
+-  Creates plots in **Supplemental Figure X**
 
 `make_activity_traces.ipynb` (CJL - updated)
-- Supplemental Figure X
+-  Creates plots in **Supplemental Figure X**
 - Plots the trace (along with AD count) for each ful length sequence
   
 ## Other important analyses

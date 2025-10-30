@@ -23,7 +23,16 @@ Figure 2 plots
 - Creates Figure 4 plot, Figure 1B, Figure 2F,G
 - Script to make heatmaps of full-length orthologs
 
+`evolver_simulations.ipynb` (CJL - added)
+- Creates Figure 5A
+- Loads in simulation results from evolver in PAML and FoldX and summarizes activites
+
+`AD_AlignmentDists.ipynb` (MVS)
+- Creates Figure 5B
+- This script looks at the Edit distances between pairs of sequences. It shows that many changes in sequence do not change activity.
+  
 `alignment_visualization.ipynb` (CJL - updated) 
+- Creates Figure 5C, D, Supplemental Figure X
 - Creates plots in Figure 5 to visualize the alignment of the central activation domain for all unique sequences in that region (138) and the most active sequences (69).
 - Creates conservation barplot, sequence logos, and an html of the sequence alignment.
 
@@ -93,9 +102,6 @@ Figure 2 plots
   
 ## Other important analyses
 
-`AD_AlignmentDists.ipynb`
-- This script looks at the Edit distances between pairs of sequences. It shows that many changes in sequence do not change activity.
-
 `Composition_ANOVA Fall 2024.ipynb`
 - Creates Table 1
 - ANOVA analysis of OLS regression on composition and dipeptides
@@ -117,7 +123,9 @@ Figure 2 plots
 - Creates a species tree for the species used in our screen.
 - Starts with the tree from mycocosm and adds clades from the y1000+ tree for species not present in mycososm tree.
 - Note that because we are merging trees estimated with different programs, branch lengths are not meaningful
-  
+
+ADD PAML scripts
+
 ## Not in paper
 
 `EC_Sog1_GCN4analysis_LeBlanc2024.ipynb`

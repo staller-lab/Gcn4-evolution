@@ -3,13 +3,13 @@
 ## Main text figures
 
 `alignment_conservation.ipynb` (CJL - updated) 
-- Creates plots for **figure 1**
+- Creates plots for **Figure 1**
 - Performs pairwise alignments of all 502 sequences and calculates percent identity (including gaps) and alignment score.
 - Also does this for the AD regions separately (DBD, length matched central AD, length matched upstream DBD region, IDR).
 - Also performs shuffles as a control.
 
 `analyze_paml_result.ipynb` (CJL - updated)
-- Creates dN/dS plot for **figure 1**********
+- Creates dN/dS plot for **Figure 1**
 - dN/dS was analysis run in PAML yn00, loads results and plots distribution  
 
 Figure 2 plots

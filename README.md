@@ -11,10 +11,17 @@
 `analyze_paml_result.ipynb` (CJL - updated)
 - Creates dN/dS plot for figure 1
 - dN/dS was analysis run in PAML yn00, loads results and plots distribution  
-  
+
+Figure 2 plots
+
 `AD_properties Fall 2024.ipynb` (MVS)
+- Creates plots for Figure 3
 - This script explores how sequence properties, like AA abundance or motif locations, contribute to activation domain activity.
 - Contains main figure panels
+
+`Full_Length_TFs_Heatmaps_Fall 2024.ipynb` (MVS)
+- Creates Figure 4 plot, Figure 1B, Figure 2F,G
+- Script to make heatmaps of full-length orthologs
 
 `alignment_visualization.ipynb` (CJL - updated) 
 - Creates plots in Figure 5 to visualize the alignment of the central activation domain for all unique sequences in that region (138) and the most active sequences (69).
@@ -33,8 +40,7 @@
 `FigureS23_helix_prediction.ipynb` (CJL)
 - Predicts the helical propensity of the top 138 most active sequences
 
-`Full_Length_TFs_Heatmaps_Fall 2024.ipynb` (MVS)
-- Script to make heatmaps of full-length orthologs
+
   
 ## Supplemental Figures
 
@@ -91,6 +97,7 @@
 - This script looks at the Edit distances between pairs of sequences. It shows that many changes in sequence do not change activity.
 
 `Composition_ANOVA Fall 2024.ipynb`
+- Creates Table 1
 - ANOVA analysis of OLS regression on composition and dipeptides
 
 `Gaussian_Threshold.ipynb`

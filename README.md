@@ -8,7 +8,9 @@
 - Also does this for the AD regions separately (DBD, length matched central AD, length matched upstream DBD region, IDR).
 - Also performs shuffles as a control.
 
-ADD dN/dS
+`analyze_paml_result.ipynb` (CJL - to add)
+- Creates dN/dS plot for figure 1
+- dN/dS was analysis run in PAML yn00, loads results and plots distribution  
   
 `AD_properties Fall 2024.ipynb` (MVS)
 - This script explores how sequence properties, like AA abundance or motif locations, contribute to activation domain activity.
@@ -78,6 +80,10 @@ ADD dN/dS
 
 `counting_motifs.ipynb` (CJL - added)
 - Supplemental Figure X
+
+`make_activity_traces.ipynb` (CJL - to add)
+- Supplemental Figure X
+- Plots the trace (along with AD count) for each ful length sequence
   
 ## Other important analyses
 

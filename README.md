@@ -93,11 +93,11 @@ Figure 2 plots
 - Barplots for control sequences
 - Reproducibility analysis
 
-`FigureS13_activitiess_on_gene_tree.ipynb` (CJL - to update) 
+`activities_on_gene_tree.ipynb` (CJL - updated) 
 - Creates plots in **Supplemental Figure X**
 - Plots heatmaps of smoothed tile activities on the y1000+ species tree
 
-`FigureS14_activitiess_on_species_tree.ipynb` (CJL - to update)
+`activities_on_species_tree.ipynb` (CJL - updated)
 - Creates plots in **Supplemental Figure X**
 - Plots heatmaps of smoothed tile activities on the estimated gene tree
 

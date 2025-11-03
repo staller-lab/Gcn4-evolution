@@ -111,7 +111,11 @@ Figure 2 plots
 `predict-tiles.py` (GH - added)
 - Runs FINCHES on tiles and ABD1 domain of Med15
 - Data used in **Supplemental Figure X**
-  
+
+`finches.ipynb` (GH - added)
+- Creates bar plots in **Supplemental Figure X**
+- Compares finches scores for active and non-active tiles
+
 ## Other important analyses
 
 `Composition_ANOVA Fall 2024.ipynb`

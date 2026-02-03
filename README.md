@@ -171,6 +171,8 @@ Figure 2 plots
 `Sensu strictu v2.ipynb`
 - Plot activity traces of S. cerevisiae and closest species
 
+`YGOB_analysis.ipynb` 
+- YGOB selection analysis, left over from earlier version of the paper
   
 
 

@@ -1,5 +1,7 @@
 # Description of analysis scripts
 
+For questions, please email claire.leblanc [at] berkeley.edu
+
 ## Main text figures
 
 `alignment_conservation.ipynb`

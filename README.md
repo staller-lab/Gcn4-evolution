@@ -133,8 +133,14 @@ Figure 2 plots
 - Analysis of inactive sequences to find activity threshold
 
 `compare-predictors-Copy1.ipynb`
+- Creates plots in **Supplemental Figure 23**
 - Compares NNs trained on Gcn4 homolog data to other neural networks
 
+`activity_integral.ipynb`
+- Creates plots in **Supplemental Figure 25**
+- Computes integral of smoothed activity and compares to null distribution of shuffled activities
+  
+  
 ## Other important analyses
 
 `Composition_ANOVA Fall 2024.ipynb`

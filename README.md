@@ -20,8 +20,12 @@ Figure 2 plots
 - This script explores how sequence properties, like AA abundance or motif locations, contribute to activation domain activity.
 - Contains main figure panels
 
+`Full_Length_TFs_Heatmaps_Fall 2025 pruned sequences.ipynb`
+- Creates **Figure 4** plot
+- Script to make heatmaps of full-length orthologs with longest sequences removed
+- 
 `Full_Length_TFs_Heatmaps_Fall 2024.ipynb`
-- Creates **Figure 4** plot, **Figure 1B**, **Figure 2F,G**, **Figure S1**
+- Creates **Figure 1B**, **Figure 2F,G**, **Figure S2, S12**
 - Script to make heatmaps of full-length orthologs
 
 `evolver_simulations.ipynb` 
@@ -71,24 +75,28 @@ Figure 2 plots
 - Creates plots in **Supplemental Figure 21**
 - For War1 homologs (identified by the Y1000+ project), identify AD regions and create plot of conservation within AD.
 - AD is identified using a consensus approach (at least 3/5 AD predictors must predict the region as active).
-- Additionally, if there are multiple ADs per TF, we only include the last one, as this corresponds to the cerevisiae War1 AD. 
+- Additionally, if there are multiple ADs per TF, we only include the last one, as this corresponds to the cerevisiae War1 AD.
 
 `Met4_search_analysis.ipynb`
 - Creates plots in **Supplemental Figure 21**
 - For Met4 homologs (identified by the Y1000+ project), identify AD regions and create plot of conservation within AD.
 - AD is identified using a consensus approach (at least 3/5 AD predictors must predict the region as active).
-- Additionally, if there are multiple ADs per TF, we only include the last one, as this corresponds to the cerevisiae Met4 AD. 
+- Additionally, if there are multiple ADs per TF, we only include the last one, as this corresponds to the cerevisiae Met4 AD.
+
+`Pdr1_search_analysis.ipynb`
+- Creates plots in **Supplemental Figure 21**
+- For Pdr1 homolog ADs (identified by Sanborn et. al 2021) create plot of conservation within AD.
 
 `SP_on_tree.ipynb` 
 - Creates plots in **Supplemental Figure 15**
 - Creates a figure with the number of SP and TP motifs in the central AD (the region surrounding the WxxLF motif) on the gene tree. 
 
 `tile_diversity.ipynb` 
-- Creates plot in **Figure S3**
+- Creates plot in **Figure S22**
 - Calculates pairwise edit distance between all tiles and active tiles
   
 `Controls_oct024.ipynb`
-- Creates plots in **Figure S2**, **Figure S4**
+- Creates plots in **Figure S4**, **Figure S5**
 - Barplots for control sequences
 - Reproducibility analysis
 
@@ -124,6 +132,9 @@ Figure 2 plots
 - Creates plots in **Supplemental Figure 6**
 - Analysis of inactive sequences to find activity threshold
 
+`compare-predictors-Copy1.ipynb`
+- Compares NNs trained on Gcn4 homolog data to other neural networks
+
 ## Other important analyses
 
 `Composition_ANOVA Fall 2024.ipynb`
@@ -144,6 +155,13 @@ Figure 2 plots
 - Creates a species tree for the species used in our screen.
 - Starts with the tree from mycocosm and adds clades from the y1000+ tree for species not present in mycososm tree.
 - Note that because we are merging trees estimated with different programs, branch lengths are not meaningful
+
+`F_combinatorics.ipynb`
+- Calculates the expected number of FFs in a sequence
+
+`SortSeq Data Processing Template.ipynb`
+- Used to process SortSeq data
+
 
 ## Not in paper
 

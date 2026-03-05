@@ -1,0 +1,503 @@
+HomologName,SpeciesName
+Lecanoromycetes_jgi|LobpulSw1|3963008|gw1.186.10.1,Lobaria pulmonaria
+Dothideomycetes_jgi|Didsa1|381788|estExt_Genewise1.C_210065,Didymocrea sadasivanii
+Lecanoromycetes_jgi|LobpulSc1|2154466|gm1.7653_g,Lobaria pulmonaria
+Sbay_sbayc645_g44.1,Saccharomyces uvarum
+Spar_spar361_g1.1,Saccharomyces paradoxus
+Smik_smik283_g1.1,Saccharomyces mikatae
+Skud_5.91,Saccharomyces kudriavzevii
+Kwal_Kwal55.20854,Lachancea waltii
+Sklu_SAKL0F05082g,Lachancea kluyveri
+Cmal_EMG49335.1_CandidaMaltosaXu316,Candida maltosa
+Ncra_NCU04050,Neurospora crassa
+Eurotiomycetes_jgi|Theau1|28168|gw1.7.1049.1,Thermoascus aurantiacus
+Cten_EGV62856.1_CandidaTenuisATCC10573,Candida tenuis
+Sordariomycetes_jgi|KdCBS826_1|635101|MIX5102_360246_86,Kretzschmaria deusta
+Sordariomycetes_jgi|Plecucu2|161010|estExt_Genewise1.C_14_t20014,Plectosphaerella cucumerina
+Cgla_CAGL0L02475g,Candida glabrata
+Orbiliomycetes_tr|S8AP85|S8AP85_DACHA,Dactylellina haptotyla
+Leotiomycetes_jgi|Phisc1|610939|estExt_Genewise1.C_6_t20370,Phialocephala scopiformis
+Mory_EHA48851.1_MagnaportheOryzae70_15,Pyricularia oryzae
+Kpas_emb_CCA37254.1_KomagataellaPastorisCBS7435,Pichia pastoris
+Leotiomycetes_jgi|Rhier1|597612|estExt_Genewise1.C_13_t10271,Rhizoscyphus ericae
+KNAG0L00890,Kazachstania naganishii
+Tbla_TBLA0A00980,Tetrapisispora blattae
+Nfis_EAW24893.1_NeosartoryaFischeriNRRL181,Neosartorya fischeri
+Eurotiomycetes_jgi|Eurhe1|176898|CE166220_364395,Aspergillus ruber
+Zyro_ZYRO0D09174g,Zygosaccharomyces rouxii
+Saccharomycotina_jgi|YarliYB419|173630|estExt_fgenesh1_pg.C_350065,Yarrowia lipolytica YB419
+Saccharomycotina_jgi|Yarlip1|160666|gm1.4739_g,Yarrowia lipolytica
+Saccharomycotina_jgi|Yarlip1|99120|estExt_Genewise1.C_4_t10451,Yarrowia lipolytica
+Saccharomycotina_jgi|Yarlip1|154613|estExt_fgenesh1_pg.C_140006,Yarrowia lipolytica
+Xylonomycetes_jgi|Xylhe1|264767|gm1.473_g,Xylona heveae
+Xylonomycetes_jgi|Xylhe1|235446|fgenesh1_pg.1_#_464,Xylona heveae
+Xylonomycetes_jgi|Xylhe1|257815|estExt_fgenesh1_pg.C_1_t10459,Xylona heveae
+Leotiomycetes_jgi|XylPMI703_1|705432|estExt_Genewise1.C_4_t60309,Xylogone sp. PMI703
+Leotiomycetes_jgi|XylPMI703_1|632993|gw1.4.1641.1,Xylogone sp. PMI703
+Leotiomycetes_jgi|XylPMI703_1|633654|gw1.4.1741.1,Xylogone sp. PMI703
+Leotiomycetes_jgi|XylPMI703_1|674959|e_gw1.4.1741.1,Xylogone sp. PMI703
+Leotiomycetes_jgi|XylPMI703_1|675878|e_gw1.4.1641.1,Xylogone sp. PMI703
+Leotiomycetes_jgi|XylPMI703_1|858126|gm1.9803_g,Xylogone sp. PMI703
+Leotiomycetes_jgi|XylPMI703_1|900820|estExt_Genemark1.C_4_t30492,Xylogone sp. PMI703
+Sordariomycetes_jgi|Xylhel2|503230|fgenesh1_pm.7_#_179,Xylaria heliscus
+Sordariomycetes_jgi|Xylhel2|473756|fgenesh1_kg.7_#_985_#_TRINITY_DN4903_c1_g8_i2,Xylaria heliscus
+Sordariomycetes_jgi|Xylhel2|503237|fgenesh1_pm.7_#_186,Xylaria heliscus
+Sordariomycetes_jgi|Xylhel2|512321|gm1.4319_g,Xylaria heliscus
+Saccharomycotina_jgi|Wican1|37412|estExt_Genewise1.C_1_t10265,Wickerhamomyces anomalus
+Saccharomycotina_jgi|Wicdo1|218662|gm1.821_g,Wickerhamiella domercqiae
+Sordariomycetes_jgi|Verdah1|362639|estExt_Genewise1.C_9_t10001,Verticillium dahliae
+Sordariomycetes_jgi|Verdah1|127083|CE127082_164432,Verticillium dahliae
+Sordariomycetes_jgi|Verdah1|127087|CE127086_118897,Verticillium dahliae
+Sordariomycetes_jgi|Verdah1|340552|e_gw1.9.1043.1,Verticillium dahliae
+Sordariomycetes_jgi|Verdah1|362640|estExt_Genewise1.C_9_t10002,Verticillium dahliae
+Sordariomycetes_jgi|Verdah1|420332|fgenesh1_kg.9_#_2_#_TRINITY_DN2418_c0_g2_i1,Verticillium dahliae
+Sordariomycetes_jgi|Verdah1|442087|fgenesh1_pm.9_#_1,Verticillium dahliae
+Sordariomycetes_jgi|Verdah1|469603|gm1.4673_g,Verticillium dahliae
+Kpol_487.1_s487,Vanderwaltozyma polyspora
+Lecanoromycetes_jgi|Usnflo1|895019|gm1.11228_g,Usnea florida
+Lecanoromycetes_jgi|Usnflo1|684003|CE684002_60837,Usnea florida
+Lecanoromycetes_jgi|Usnflo1|826810|fgenesh1_pg.84_#_50,Usnea florida
+Lecanoromycetes_jgi|Usnflo1|874926|fgenesh1_kg.84_#_383_#_TRINITY_DN5741_c4_g1_i2,Usnea florida
+Lecanoromycetes_jgi|Usnflo1|874927|fgenesh1_kg.84_#_384_#_TRINITY_DN5741_c4_g1_i1,Usnea florida
+Lecanoromycetes_jgi|Usnflo1|967599|estExt_fgenesh1_pg.C_840050,Usnea florida
+Lecanoromycetes_jgi|Usnflo1|977643|estExt_Genemark1.C_840056,Usnea florida
+Pezizomycetes_jgi|Tubbor1|1037117|estExt_Genewise1.C_6370004,Tuber borchii
+Pezizomycetes_jgi|Tubbor1|1011776|e_gw1.637.10.1,Tuber borchii
+Pezizomycetes_jgi|Tubbor1|1037118|estExt_Genewise1.C_6370005,Tuber borchii
+Pezizomycetes_jgi|Tubbor1|1069928|fgenesh1_pg.637_#_2,Tuber borchii
+Pezizomycetes_jgi|Tubbor1|1111843|estExt_fgenesh1_pg.C_6370002,Tuber borchii
+Pezizomycetes_jgi|Tubbor1|1138555|gm1.20678_g,Tuber borchii
+Pezizomycetes_jgi|Tubbor1|889567|gw1.637.1.1,Tuber borchii
+Pezizomycetes_jgi|Tubbor1|923263|gw1.637.7.1,Tuber borchii
+Pezizomycetes_jgi|Tubbor1|926684|gw1.637.10.1,Tuber borchii
+Xylonomycetes_jgi|Trigu1|1079454|gm1.247_g,Trinosporium guianense
+Xylonomycetes_jgi|Trigu1|1045435|fgenesh1_pg.2_#_49,Trinosporium guianense
+Xylonomycetes_jgi|Trigu1|1052889|fgenesh1_kg.2_#_80_#_Locus348v1rpkm463.30,Trinosporium guianense
+Sordariomycetes_jgi|Trici4|1132328|estExt_Genewise1.C_10_t10121,Trichoderma citrinoviride
+Sordariomycetes_jgi|Trici4|1098677|gw1.10.1024.1,Trichoderma citrinoviride
+Sordariomycetes_jgi|Trici4|1122955|e_gw1.10.1024.1,Trichoderma citrinoviride
+Sordariomycetes_jgi|Trici4|1123710|e_gw1.10.677.1,Trichoderma citrinoviride
+Sordariomycetes_jgi|Trici4|1132329|estExt_Genewise1.C_10_t10122,Trichoderma citrinoviride
+Sordariomycetes_jgi|Trici4|1135846|fgenesh1_kg.10_#_27_#_Locus112v1rpkm915.37,Trichoderma citrinoviride
+Sordariomycetes_jgi|Trici4|1160733|gm1.5794_g,Trichoderma citrinoviride
+Sordariomycetes_jgi|Trici4|1176661|MIX3328_92_29,Trichoderma citrinoviride
+Sordariomycetes_jgi|Trici4|1176663|MIX3330_87484_100,Trichoderma citrinoviride
+Sordariomycetes_jgi|Trici4|1207267|estExt_fgenesh1_pm.C_100049,Trichoderma citrinoviride
+Tdel_TDEL0H02940,Torulaspora delbrueckii
+Saccharomycotina_jgi|Canca1|23981|e_gw1.2.2068.1,Tortispora caseinolytica
+Saccharomycotina_jgi|Canca1|2660|gm1.2660_g,Tortispora caseinolytica
+Saccharomycotina_jgi|Canca1|57326|fgenesh1_pm.2_#_827,Tortispora caseinolytica
+Sordariomycetes_jgi|ThoPMI491_1|691560|estExt_Genewise1.C_340285,Thozetella sp. PMI491
+Sordariomycetes_jgi|ThoPMI491_1|598653|gw1.34.170.1,Thozetella sp. PMI491
+Sordariomycetes_jgi|ThoPMI491_1|626307|gw1.34.394.1,Thozetella sp. PMI491
+Sordariomycetes_jgi|ThoPMI491_1|653909|e_gw1.34.424.1,Thozetella sp. PMI491
+Sordariomycetes_jgi|ThoPMI491_1|653911|e_gw1.34.170.1,Thozetella sp. PMI491
+Sordariomycetes_jgi|ThoPMI491_1|691561|estExt_Genewise1.C_340286,Thozetella sp. PMI491
+Sordariomycetes_jgi|ThoPMI491_1|783680|fgenesh1_pm.34_#_106,Thozetella sp. PMI491
+Sordariomycetes_jgi|ThoPMI491_1|795735|estExt_fgenesh1_pm.C_340105,Thozetella sp. PMI491
+Sordariomycetes_jgi|ThoPMI491_1|826262|gm1.11794_g,Thozetella sp. PMI491
+Eurotiomycetes_jgi|Theau1|5329|gm1.5329_g,Thermoascus aurantiacus
+Eurotiomycetes_jgi|Theau1|45109|e_gw1.7.1240.1,Thermoascus aurantiacus
+Eurotiomycetes_jgi|Theau1|57443|fgenesh1_pg.7_#_351,Thermoascus aurantiacus
+Eurotiomycetes_jgi|Theau1|64159|fgenesh1_pm.7_#_299,Thermoascus aurantiacus
+Tpha_TPHA0L00680,Tetrapisispora phaffii
+Pezizomycetes_jgi|Terbo2|864892|estExt_fgenesh1_pg.C_30083,Terfezia boudieri
+Pezizomycetes_jgi|Terbo2|833235|fgenesh1_kg.3_#_101_#_Locus114v1rpkm854.89,Terfezia boudieri
+Dothideomycetes_jgi|Ternu1|295555|estExt_Genewise1.C_420077,Teratosphaeria nubilosa
+Dothideomycetes_jgi|Ternu1|137678|CE137677_165137,Teratosphaeria nubilosa
+Dothideomycetes_jgi|Ternu1|257952|gw1.42.157.1,Teratosphaeria nubilosa
+Dothideomycetes_jgi|Ternu1|337262|fgenesh1_pg.42_#_27,Teratosphaeria nubilosa
+Dothideomycetes_jgi|Ternu1|352580|gm1.5843_g,Teratosphaeria nubilosa
+Tmar_XP_002151511.1_TalaromycesMarneffeiATCC18224,Talaromyces marneffei
+Xylonomycetes_jgi|Symko1|910262|gm1.137_g,Symbiotaphrina kochii
+Xylonomycetes_jgi|Symko1|811085|fgenesh1_pg.1_#_114,Symbiotaphrina kochii
+Xylonomycetes_jgi|Symko1|820710|fgenesh1_kg.1_#_1074_#_combest_scaffold_1_6370,Symbiotaphrina kochii
+Pezizomycetes_jgi|Sphbr2|795153|estExt_Genewise1.C_680095,Sphaerosporella brunnea
+Pezizomycetes_jgi|Sphbr2|1010952|MIX27677_51896_44,Sphaerosporella brunnea
+Pezizomycetes_jgi|Sphbr2|1010974|MIX27699_16382_34,Sphaerosporella brunnea
+Pezizomycetes_jgi|Sphbr2|1021005|estExt_fgenesh1_pg.C_680040,Sphaerosporella brunnea
+Pezizomycetes_jgi|Sphbr2|1027810|estExt_fgenesh1_pm.C_680028,Sphaerosporella brunnea
+Pezizomycetes_jgi|Sphbr2|751914|gw1.68.12.1,Sphaerosporella brunnea
+Pezizomycetes_jgi|Sphbr2|777203|e_gw1.68.12.1,Sphaerosporella brunnea
+Pezizomycetes_jgi|Sphbr2|795159|estExt_Genewise1.C_680101,Sphaerosporella brunnea
+Pezizomycetes_jgi|Sphbr2|889484|fgenesh1_pg.68_#_41,Sphaerosporella brunnea
+Pezizomycetes_jgi|Sphbr2|906183|gm1.4636_g,Sphaerosporella brunnea
+Saccharomycotina_jgi|Spapa3|150094|estExt_genewise1plus.C_30355,Spathaspora passalidarum
+Sordariomycetes_jgi|Acral2|2019554|gm1.4974_g,Sodiomycetes alcalophilus
+Sordariomycetes_jgi|Acral2|2105274|e_gw1.4.549.1,Sodiomycetes alcalophilus
+Sordariomycetes_jgi|Acral2|2027520|fgenesh1_pg.4_#_462,Sodiomycetes alcalophilus
+Sordariomycetes_jgi|Acral2|2034848|fgenesh1_kg.4_#_413_#_Contig1631,Sodiomycetes alcalophilus
+Sordariomycetes_jgi|Acral2|2034849|fgenesh1_kg.4_#_414_#_Contig3834,Sodiomycetes alcalophilus
+Sordariomycetes_jgi|Acral2|2047914|estExt_Genemark1.C_4_t10464,Sodiomycetes alcalophilus
+Sordariomycetes_jgi|Sodal1|284322|e_gw1.12.622.1,Sodiomyces alkalinus
+Sordariomycetes_jgi|Sodal1|301461|estExt_Genewise1.C_12_t10161,Sodiomyces alkalinus
+Sordariomycetes_jgi|Sodal1|246958|gw1.12.174.1,Sodiomyces alkalinus
+Sordariomycetes_jgi|Sodal1|247022|gw1.12.179.1,Sodiomyces alkalinus
+Sordariomycetes_jgi|Sodal1|284404|e_gw1.12.174.1,Sodiomyces alkalinus
+Sordariomycetes_jgi|Sodal1|284638|e_gw1.12.179.1,Sodiomyces alkalinus
+Sordariomycetes_jgi|Sodal1|301462|estExt_Genewise1.C_12_t10162,Sodiomyces alkalinus
+Sordariomycetes_jgi|Sodal1|317435|estExt_Genewise1Plus.C_12_t10156,Sodiomyces alkalinus
+Sordariomycetes_jgi|Sodal1|321031|fgenesh1_pg.12_#_76,Sodiomyces alkalinus
+Sordariomycetes_jgi|Sodal1|363618|gm1.9740_g,Sodiomyces alkalinus
+Sordariomycetes_jgi|Sodal1|381900|estExt_Genemark1.C_120095,Sodiomyces alkalinus
+Dothideomycetes_jgi|Settu3|1430613|gm1.5518_g,Setosphaeria turcica
+Dothideomycetes_jgi|Settu3|1273134|gw1.7.816.1,Setosphaeria turcica
+Dothideomycetes_jgi|Settu3|1307314|e_gw1.7.816.1,Setosphaeria turcica
+Dothideomycetes_jgi|Settu3|1373193|fgenesh1_kg.7_#_614_#_isotig00027,Setosphaeria turcica
+Dothideomycetes_jgi|Settu3|1385612|fgenesh1_pg.7_#_371,Setosphaeria turcica
+Dothideomycetes_jgi|Settu3|1406582|fgenesh1_pm.7_#_397,Setosphaeria turcica
+Dothideomycetes_jgi|Settu3|23496|Settu1.gm1.5622_g,Setosphaeria turcica
+Dothideomycetes_jgi|Settur3|459050|estExt_Genewise1.C_390140,Setosphaeria turcica
+Dothideomycetes_jgi|Settur3|484508|estExt_Genewise1Plus.C_390136,Setosphaeria turcica
+Dothideomycetes_jgi|Settur3|528825|fgenesh1_pg.39_#_47,Setosphaeria turcica
+Saccharomycotina_sp|P03069|GCN4_YEAST,Saccharomyces cerevisiae
+Leotiomycetes_jgi|Rhier1|543385|gw1.13.301.1,Rhizoscyphus ericae
+Leotiomycetes_jgi|Rhier1|544746|gw1.13.330.1,Rhizoscyphus ericae
+Leotiomycetes_jgi|Rhier1|569375|e_gw1.13.345.1,Rhizoscyphus ericae
+Leotiomycetes_jgi|Rhier1|569507|e_gw1.13.330.1,Rhizoscyphus ericae
+Leotiomycetes_jgi|Rhier1|597613|estExt_Genewise1.C_13_t10272,Rhizoscyphus ericae
+Leotiomycetes_jgi|Rhier1|644478|fgenesh1_kg.13_#_127_#_Locus38v1rpkm1687.69,Rhizoscyphus ericae
+Leotiomycetes_jgi|Rhier1|657659|fgenesh1_pg.13_#_132,Rhizoscyphus ericae
+Leotiomycetes_jgi|Rhier1|701962|gm1.6137_g,Rhizoscyphus ericae
+Leotiomycetes_jgi|Rhier1|77574|CE77573_461155,Rhizoscyphus ericae
+Leotiomycetes_jgi|Rhier1|77589|CE77588_382928,Rhizoscyphus ericae
+Dothideomycetes_jgi|Rhili1|80333|gm1.10500_g,Rhizodiscina lignyota
+Dothideomycetes_jgi|Rhili1|60565|fgenesh1_pg.14_#_182,Rhizodiscina lignyota
+Sordariomycetes_jgi|Plecucu2|127088|gw1.14.452.1,Plectosphaerella cucumerina
+Sordariomycetes_jgi|Plecucu2|15265|CE15264_9688,Plectosphaerella cucumerina
+Sordariomycetes_jgi|Plecucu2|218094|fgenesh1_kg.14_#_525_#_TRINITY_DN11489_c0_g2_i1,Plectosphaerella cucumerina
+Sordariomycetes_jgi|Plecucu2|243517|gm1.5207_g,Plectosphaerella cucumerina
+Dothideomycetes_jgi|Pcapi1|508781|gm1.2810_g,Phyllosticta capitalensis
+Dothideomycetes_jgi|Pcapi1|387506|gw1.3.51.1,Phyllosticta capitalensis
+Dothideomycetes_jgi|Pcapi1|395117|gw1.3.590.1,Phyllosticta capitalensis
+Dothideomycetes_jgi|Pcapi1|410788|e_gw1.3.487.1,Phyllosticta capitalensis
+Dothideomycetes_jgi|Pcapi1|463902|fgenesh1_pg.3_#_384,Phyllosticta capitalensis
+Leotiomycetes_jgi|Phisc1|548835|gw1.6.345.1,Phialocephala scopiformis
+Leotiomycetes_jgi|Phisc1|554274|gw1.6.815.1,Phialocephala scopiformis
+Leotiomycetes_jgi|Phisc1|578841|e_gw1.6.598.1,Phialocephala scopiformis
+Leotiomycetes_jgi|Phisc1|610940|estExt_Genewise1.C_6_t20371,Phialocephala scopiformis
+Leotiomycetes_jgi|Phisc1|666295|fgenesh1_pg.6_#_362,Phialocephala scopiformis
+Leotiomycetes_jgi|Phisc1|682346|fgenesh1_kg.6_#_351_#_Locus202v1rpkm644.45,Phialocephala scopiformis
+Leotiomycetes_jgi|Phisc1|730665|gm1.3933_g,Phialocephala scopiformis
+Pezizomycetes_jgi|Pezech1|496322|estExt_Genewise1.C_3_t20144,Peziza echinospora
+Pezizomycetes_jgi|Pezech1|242862|CE242861_57098,Peziza echinospora
+Pezizomycetes_jgi|Pezech1|460494|gw1.3.113.1,Peziza echinospora
+Pezizomycetes_jgi|Pezech1|470410|gw1.3.829.1,Peziza echinospora
+Pezizomycetes_jgi|Pezech1|477495|e_gw1.3.979.1,Peziza echinospora
+Pezizomycetes_jgi|Pezech1|477598|e_gw1.3.113.1,Peziza echinospora
+Pezizomycetes_jgi|Pezech1|522265|fgenesh1_pg.3_#_355,Peziza echinospora
+Pezizomycetes_jgi|Pezech1|607189|gm1.2259_g,Peziza echinospora
+Eurotiomycetes_jgi|Penbr2|60600|gm1.7763_g,Penicillium brevicompactum
+Eurotiomycetes_jgi|Penbr2|44026|fgenesh1_pg.5_#_58,Penicillium brevicompactum
+Eurotiomycetes_jgi|Penatra1|32388|gw1.2.1490.1,Penicillium atramentosum
+Eurotiomycetes_jgi|Penatra1|34162|e_gw1.2.1160.1,Penicillium atramentosum
+Eurotiomycetes_jgi|Penatra1|34211|e_gw1.2.1490.1,Penicillium atramentosum
+Eurotiomycetes_jgi|Penatra1|58833|fgenesh1_pm.2_#_197,Penicillium atramentosum
+Eurotiomycetes_jgi|Penatra1|11364|gw1.2.276.1,Penicillium atramentosum
+Eurotiomycetes_jgi|Penatra1|49071|fgenesh1_pg.2_#_356,Penicillium atramentosum
+Eurotiomycetes_jgi|Penatra1|67166|gm1.1253_g,Penicillium atramentosum
+Sordariomycetes_jgi|OphPMI507_1|340001|estExt_Genewise1.C_10_t10107,Ophiostoma sp. PMI507
+Sordariomycetes_jgi|OphPMI507_1|294364|gw1.10.112.1,Ophiostoma sp. PMI507
+Sordariomycetes_jgi|OphPMI507_1|35258|CE35257_294431,Ophiostoma sp. PMI507
+Sordariomycetes_jgi|OphPMI507_1|356537|estExt_Genewise1Plus.C_10_t10106,Ophiostoma sp. PMI507
+Sordariomycetes_jgi|OphPMI507_1|368184|fgenesh1_pg.10_#_68,Ophiostoma sp. PMI507
+Sordariomycetes_jgi|OphPMI507_1|408350|fgenesh1_pm.10_#_32,Ophiostoma sp. PMI507
+Sordariomycetes_jgi|OphPMI507_1|417708|estExt_fgenesh1_pg.C_100068,Ophiostoma sp. PMI507
+Sordariomycetes_jgi|OphPMI507_1|434063|gm1.8796_g,Ophiostoma sp. PMI507
+Dothideomycetes_jgi|Ophdi1|310925|estExt_Genewise1.C_1_t20319,Ophiobolus disseminans
+Dothideomycetes_jgi|Ophdi1|277083|gw1.1.2778.1,Ophiobolus disseminans
+Dothideomycetes_jgi|Ophdi1|279626|e_gw1.1.2835.1,Ophiobolus disseminans
+Dothideomycetes_jgi|Ophdi1|310926|estExt_Genewise1.C_1_t20320,Ophiobolus disseminans
+Dothideomycetes_jgi|Ophdi1|414967|MIX679_26_42,Ophiobolus disseminans
+Dothideomycetes_jgi|Ophdi1|450984|estExt_fgenesh1_pg.C_1_t10370,Ophiobolus disseminans
+Leotiomycetes_jgi|Oidma1|18868|fgenesh1_kg.6_#_311_#_isotig02349,Oidiodendron maius
+Leotiomycetes_jgi|Oidma1|41352|fgenesh1_pm.6_#_481,Oidiodendron maius
+Leotiomycetes_jgi|Oidma1|120469|e_gw1.6.1586.1,Oidiodendron maius
+Leotiomycetes_jgi|Oidma1|28308|fgenesh1_pg.6_#_570,Oidiodendron maius
+Leotiomycetes_jgi|Oidma1|41375|fgenesh1_pm.6_#_504,Oidiodendron maius
+Leotiomycetes_jgi|Oidma1|53713|gm1.7043_g,Oidiodendron maius
+Leotiomycetes_jgi|Oidma1|94012|gw1.6.1717.1,Oidiodendron maius
+Saccharomycotina_jgi|Hanpo2|10524|gm1.4782_g,Ogataea polymorpha
+Sordariomycetes_jgi|Gelte1|496139|estExt_Genewise1.C_5_t30225,Neurospora tetraspora
+Sordariomycetes_jgi|Gelte1|230866|CE230865_367789,Neurospora tetraspora
+Sordariomycetes_jgi|Gelte1|412576|gw1.5.2568.1,Neurospora tetraspora
+Sordariomycetes_jgi|Gelte1|443597|fgenesh1_pg.5_#_511,Neurospora tetraspora
+Sordariomycetes_jgi|Gelte1|496141|estExt_Genewise1.C_5_t30227,Neurospora tetraspora
+Sordariomycetes_jgi|Gelte1|549992|gm1.6550_g,Neurospora tetraspora
+Sordariomycetes_jgi|Neucr4830_1|508455|gm1.1558_g,Neurospora crassa
+Sordariomycetes_jgi|Neucr4830_1|137279|CE137278_88397,Neurospora crassa
+Sordariomycetes_jgi|Neucr4830_1|444994|fgenesh1_pg.2_#_439,Neurospora crassa
+Sordariomycetes_jgi|Neucr4830_1|458150|fgenesh1_kg.2_#_1484_#_TRINITY_DN1053_c0_g1_i1,Neurospora crassa
+Sordariomycetes_jgi|Neucr4830_1|500102|estExt_fgenesh1_pg.C_2_t10432,Neurospora crassa
+Sordariomycetes_jgi|Neucr4830_1|533472|estExt_Genemark1.C_2_t10441,Neurospora crassa
+Ndai_NDAI0A08680,Naumovozyma dairenensis
+Scas_Scas663.23,Naumovozyma castellii
+Saccharomycotina_jgi|Nadfu1|49963|gm1.1604_g,Nadsonia fulvescens
+Saccharomycotina_jgi|Nadfu1|51114|gm1.2755_g,Nadsonia fulvescens
+Saccharomycotina_jgi|Nadfu1|65686|estExt_Genemark1.C_4_t10334,Nadsonia fulvescens
+Saccharomycotina_jgi|Nadfu1|64653|estExt_Genemark1.C_2_t20134,Nadsonia fulvescens
+Pezizomycetes_jgi|Morimp1|261925|CE261924_96313,Morchella importuna strain SCYDJ1-A1
+Pezizomycetes_jgi|Morimp1|587491|fgenesh1_kg.36_#_111_#_Locus122v1rpkm1185.89,Morchella importuna strain SCYDJ1-A1
+Pezizomycetes_jgi|Morimp1|606344|fgenesh1_pm.36_#_38,Morchella importuna strain SCYDJ1-A1
+Pezizomycetes_jgi|Morimp1|618988|estExt_fgenesh1_pg.C_360077,Morchella importuna strain SCYDJ1-A1
+Pezizomycetes_jgi|Morimp1|628980|gm1.7011_g,Morchella importuna strain SCYDJ1-A1
+Pezizomycetes_jgi|Morco1|243381|CE243380_84307,Morchella importuna
+Pezizomycetes_jgi|Morco1|508937|estExt_Genewise1.C_360174,Morchella importuna
+Pezizomycetes_jgi|Morco1|243446|CE243445_141165,Morchella importuna
+Pezizomycetes_jgi|Morco1|474002|gw1.36.174.1,Morchella importuna
+Pezizomycetes_jgi|Morco1|490383|e_gw1.36.174.1,Morchella importuna
+Pezizomycetes_jgi|Morco1|554337|fgenesh1_pm.36_#_41,Morchella importuna
+Pezizomycetes_jgi|Morco1|566389|estExt_fgenesh1_pg.C_360085,Morchella importuna
+Pezizomycetes_jgi|Morco1|575945|gm1.6721_g,Morchella importuna
+Eurotiomycetes_jgi|Monpu1|465512|estExt_Genewise1.C_1320051,Monascus purpureus
+Eurotiomycetes_jgi|Monpu1|416371|gw1.132.11.1,Monascus purpureus
+Eurotiomycetes_jgi|Monpu1|447840|e_gw1.132.9.1,Monascus purpureus
+Eurotiomycetes_jgi|Monpu1|447850|e_gw1.132.11.1,Monascus purpureus
+Eurotiomycetes_jgi|Monpu1|511148|gm1.6622_g,Monascus purpureus
+Eurotiomycetes_jgi|Monpu1|552623|estExt_fgenesh1_pg.C_1320019,Monascus purpureus
+Cgui_PGUG01812.1,Meyerozyma guilliermondii
+Saccharomycotina_jgi|Metbi1|26673|gw1.4.1332.1,Metschnikowia bicuspidata
+Saccharomycotina_jgi|Metbi1|42927|e_gw1.4.684.1,Metschnikowia bicuspidata
+Saccharomycotina_jgi|Metbi1|14228|gw1.4.18.1,Metschnikowia bicuspidata
+Saccharomycotina_jgi|Metbi1|20326|gw1.4.684.1,Metschnikowia bicuspidata
+Saccharomycotina_jgi|Metbi1|44260|e_gw1.4.1332.1,Metschnikowia bicuspidata
+Leotiomycetes_jgi|Melbi2|567587|estExt_Genewise1.C_124_t10014,Meliniomyces bicolor
+Leotiomycetes_jgi|Melbi2|480694|gw1.124.299.1,Meliniomyces bicolor
+Leotiomycetes_jgi|Melbi2|536739|e_gw1.124.299.1,Meliniomyces bicolor
+Leotiomycetes_jgi|Melbi2|537264|e_gw1.124.289.1,Meliniomyces bicolor
+Leotiomycetes_jgi|Melbi2|567588|estExt_Genewise1.C_124_t10015,Meliniomyces bicolor
+Leotiomycetes_jgi|Melbi2|616635|fgenesh1_kg.124_#_9_#_Locus11v1rpkm4174.28,Meliniomyces bicolor
+Leotiomycetes_jgi|Melbi2|633153|fgenesh1_pg.124_#_8,Meliniomyces bicolor
+Leotiomycetes_jgi|Melbi2|645341|fgenesh1_pm.124_#_2,Meliniomyces bicolor
+Leotiomycetes_jgi|Melbi2|682398|gm1.11251_g,Meliniomyces bicolor
+Leotiomycetes_jgi|Melbi2|694641|MIX5590_279423_53,Meliniomyces bicolor
+Lelo_LELG02543,Lodderomyces elongisporus
+Lecanoromycetes_jgi|LobpulSc1|2051582|gw1.209.7.1,Lobaria pulmonaria
+Lecanoromycetes_jgi|LobpulSc1|2114391|e_gw1.209.10.1,Lobaria pulmonaria
+Lecanoromycetes_jgi|LobpulSc1|2114424|e_gw1.209.46.1,Lobaria pulmonaria
+Lecanoromycetes_jgi|LobpulSc1|2168125|fgenesh1_pg.209_#_15,Lobaria pulmonaria
+Lecanoromycetes_jgi|LobpulSc1|2246836|fgenesh1_kg.209_#_140_#_TRINITY_DN7852_c1_g2_i4,Lobaria pulmonaria
+Lecanoromycetes_jgi|LobpulSc1|2246843|fgenesh1_kg.209_#_147_#_TRINITY_DN10375_c0_g2_i5,Lobaria pulmonaria
+Lecanoromycetes_jgi|LobpulSc1|533068|CE533067_256209,Lobaria pulmonaria
+Lecanoromycetes_jgi|LobpulSw1|3969288|gw1.186.21.1,Lobaria pulmonaria
+Lecanoromycetes_jgi|LobpulSw1|4020930|e_gw1.186.21.1,Lobaria pulmonaria
+Lecanoromycetes_jgi|LobpulSw1|4020932|e_gw1.186.10.1,Lobaria pulmonaria
+Lecanoromycetes_jgi|LobpulSw1|4047804|fgenesh1_pm.186_#_1,Lobaria pulmonaria
+Lecanoromycetes_jgi|LobpulSw1|4061810|gm1.6239_g,Lobaria pulmonaria
+Lecanoromycetes_jgi|LobpulSw1|4177790|fgenesh1_pg.186_#_1,Lobaria pulmonaria
+Lecanoromycetes_jgi|LobpulSw1|869208|CE869207_527746,Lobaria pulmonaria
+Lecanoromycetes_jgi|LobpulSw1|869461|CE869460_650647,Lobaria pulmonaria
+Saccharomycotina_jgi|Lipst1_1|2531|gm1.2531_g,Lipomyces starkeyi
+Saccharomycotina_jgi|Lipst1_1|26804|estExt_Genemark1.C_4_t20003,Lipomyces starkeyi
+Saccharomycotina_jgi|Lipst1_1|62564|fgenesh1_pg.4_#_460,Lipomyces starkeyi
+Leotiomycetes_jgi|Lepor2|511283|estExt_Genewise1.C_4_t30461,Leptodontidium orchidicola
+Leotiomycetes_jgi|Lepor2|274044|CE274043_49561,Leptodontidium orchidicola
+Leotiomycetes_jgi|Lepor2|433516|gw1.4.1134.1,Leptodontidium orchidicola
+Leotiomycetes_jgi|Lepor2|440702|gw1.4.1363.1,Leptodontidium orchidicola
+Leotiomycetes_jgi|Lepor2|455453|gw1.4.2150.1,Leptodontidium orchidicola
+Leotiomycetes_jgi|Lepor2|473110|e_gw1.4.1134.1,Leptodontidium orchidicola
+Leotiomycetes_jgi|Lepor2|511285|estExt_Genewise1.C_4_t30463,Leptodontidium orchidicola
+Leotiomycetes_jgi|Lepor2|571323|fgenesh1_pg.4_#_698,Leptodontidium orchidicola
+Leotiomycetes_jgi|Lepor2|669630|gm1.6110_g,Leptodontidium orchidicola
+Sordariomycetes_jgi|Lasov1|674147|gm1.2096_g,Lasiosphaeria ovina
+Sordariomycetes_jgi|Lasov1|608193|fgenesh1_kg.1_#_7849_#_TRINITY_DN5281_c0_g1_i2,Lasiosphaeria ovina
+Sordariomycetes_jgi|Lasov1|608194|fgenesh1_kg.1_#_7850_#_TRINITY_DN5281_c0_g1_i1,Lasiosphaeria ovina
+Sordariomycetes_jgi|Lasov1|662703|estExt_fgenesh1_pg.C_1_t50097,Lasiosphaeria ovina
+Sordariomycetes_jgi|Lasov1|716087|estExt_Genemark1.C_1_t50096,Lasiosphaeria ovina
+Klth_KLTH0F12760g,Lachancea thermotolerans
+Sordariomycetes_jgi|KdCBS826_1|583475|fgenesh1_kg.25_#_56_#_TRINITY_DN4860_c1_g3_i1,Kretzschmaria deusta
+Klac_KLLA0D14113g,Kluyveromyces lactis
+Karf_KAFR0L00510,Kazachstania africana
+Sordariomycetes_jgi|Ilyeu1|673642|gm1.9468_g,Ilyonectria europaea
+Sordariomycetes_jgi|Ilyeu1|586867|fgenesh1_kg.10_#_1105_#_TRINITY_DN3514_c0_g1_i1,Ilyonectria europaea
+Sordariomycetes_jgi|Ilyeu1|617022|fgenesh1_pg.10_#_590,Ilyonectria europaea
+Sordariomycetes_jgi|Ilyeu1|657227|estExt_fgenesh1_pg.C_10_t20090,Ilyonectria europaea
+Sordariomycetes_jgi|Hypfra2|223471|CE223470_113748,Hypoxylon fragiforme
+Sordariomycetes_jgi|Hypfra2|485502|fgenesh1_kg.4_#_1379_#_TRINITY_DN1166_c0_g1_i1,Hypoxylon fragiforme
+Sordariomycetes_jgi|Hypfra2|485503|fgenesh1_kg.4_#_1380_#_TRINITY_DN1166_c0_g2_i1,Hypoxylon fragiforme
+Sordariomycetes_jgi|Hypfra2|530715|MIX4042_126314_88,Hypoxylon fragiforme
+Leotiomycetes_jgi|Hymvar1|452989|estExt_Genewise1.C_15_t20045,Hymenoscyphus varicosporoides
+Leotiomycetes_jgi|Hymvar1|346915|gw1.15.511.1,Hymenoscyphus varicosporoides
+Leotiomycetes_jgi|Hymvar1|347718|gw1.15.548.1,Hymenoscyphus varicosporoides
+Leotiomycetes_jgi|Hymvar1|378097|e_gw1.15.201.1,Hymenoscyphus varicosporoides
+Leotiomycetes_jgi|Hymvar1|378131|e_gw1.15.548.1,Hymenoscyphus varicosporoides
+Leotiomycetes_jgi|Hymvar1|452990|estExt_Genewise1.C_15_t20046,Hymenoscyphus varicosporoides
+Leotiomycetes_jgi|Hymvar1|529184|gm1.7417_g,Hymenoscyphus varicosporoides
+Leotiomycetes_jgi|Hymvar1|565036|estExt_Genemark1.C_150220,Hymenoscyphus varicosporoides
+Dothideomycetes_jgi|Herpot1_1|412010|estExt_Genewise1.C_2_t10126,Herpotrichia sp. AK1299
+Dothideomycetes_jgi|Herpot1_1|347990|gw1.2.343.1,Herpotrichia sp. AK1299
+Dothideomycetes_jgi|Herpot1_1|379043|e_gw1.2.743.1,Herpotrichia sp. AK1299
+Dothideomycetes_jgi|Herpot1_1|380017|e_gw1.2.432.1,Herpotrichia sp. AK1299
+Dothideomycetes_jgi|Herpot1_1|536511|gm1.958_g,Herpotrichia sp. AK1299
+Eurotiomycetes_jgi|Gymci1_1|302926|estExt_Genewise1.C_400046,Gymnascella citrina
+Eurotiomycetes_jgi|Gymci1_1|268457|gw1.40.111.1,Gymnascella citrina
+Eurotiomycetes_jgi|Gymci1_1|274672|gw1.40.162.1,Gymnascella citrina
+Eurotiomycetes_jgi|Gymci1_1|274932|gw1.40.167.1,Gymnascella citrina
+Eurotiomycetes_jgi|Gymci1_1|285057|e_gw1.40.162.1,Gymnascella citrina
+Eurotiomycetes_jgi|Gymci1_1|285070|e_gw1.40.167.1,Gymnascella citrina
+Eurotiomycetes_jgi|Gymci1_1|285097|e_gw1.40.111.1,Gymnascella citrina
+Eurotiomycetes_jgi|Gymci1_1|343114|fgenesh1_kg.40_#_21_#_Locus81v1rpkm1491.43,Gymnascella citrina
+Eurotiomycetes_jgi|Gymci1_1|379792|MIX9300_397062_93,Gymnascella citrina
+Eurotiomycetes_jgi|Gymci1_1|396300|estExt_fgenesh1_pg.C_400016,Gymnascella citrina
+Pezizomycetes_jgi|Geocar1|698986|estExt_Genewise1.C_550004,Geopyxis carbonaria
+Pezizomycetes_jgi|Geocar1|719936|fgenesh1_pm.55_#_3,Geopyxis carbonaria
+Pezizomycetes_jgi|Geocar1|594976|gw1.55.14.1,Geopyxis carbonaria
+Pezizomycetes_jgi|Geocar1|601711|gw1.55.41.1,Geopyxis carbonaria
+Pezizomycetes_jgi|Geocar1|607095|gw1.55.60.1,Geopyxis carbonaria
+Pezizomycetes_jgi|Geocar1|624888|e_gw1.55.41.1,Geopyxis carbonaria
+Pezizomycetes_jgi|Geocar1|624891|e_gw1.55.14.1,Geopyxis carbonaria
+Sordariomycetes_jgi|FoxF1003_1|580339|estExt_Genewise1.C_2_t60050,Fusarium oxysporum
+Sordariomycetes_jgi|FoxF1003_1|606664|fgenesh1_pg.2_#_1308,Fusarium oxysporum
+Sordariomycetes_jgi|FoxF1003_1|633221|fgenesh1_kg.2_#_4948_#_TRINITY_DN8250_c2_g1_i1,Fusarium oxysporum
+Sordariomycetes_jgi|FoxF1003_1|633222|fgenesh1_kg.2_#_4949_#_TRINITY_DN8250_c2_g1_i2,Fusarium oxysporum
+Sordariomycetes_jgi|FoxF1003_1|703897|fgenesh1_pm.2_#_940,Fusarium oxysporum
+Sordariomycetes_jgi|FoxF1003_1|717337|estExt_fgenesh1_pg.C_2_t30306,Fusarium oxysporum
+Sordariomycetes_jgi|FoxF1003_1|747729|estExt_fgenesh1_pm.C_2_t20437,Fusarium oxysporum
+Agos_ADL012C,Eremothecium gossypii
+Agos_NP_984085.2_AshbyaGossypiiATCC10895,Eremothecium gossypii
+Ecym_4497,Eremothecium cymbalariae
+Dothideomycetes_jgi|Epini1|466314|gm1.4452_g,Epicoccum nigrum
+Dothideomycetes_jgi|Epini1|203871|CE203870_118140,Epicoccum nigrum
+Dothideomycetes_jgi|Epini1|315826|gw1.6.996.1,Epicoccum nigrum
+Dothideomycetes_jgi|Epini1|325950|e_gw1.6.310.1,Epicoccum nigrum
+Dothideomycetes_jgi|Epini1|326071|e_gw1.6.1026.1,Epicoccum nigrum
+Dothideomycetes_jgi|Epini1|414228|fgenesh1_kg.6_#_480_#_TRINITY_DN1200_c0_g1_i1,Epicoccum nigrum
+Dothideomycetes_jgi|Epini1|439084|fgenesh1_pm.6_#_123,Epicoccum nigrum
+Dothideomycetes_jgi|Epini1|455912|estExt_fgenesh1_pg.C_60157,Epicoccum nigrum
+Sordariomycetes_jgi|Entma1|272097|estExt_Genewise1.C_110236,Entoleuca mammata
+Sordariomycetes_jgi|Entma1|14849|CE14848_67159,Entoleuca mammata
+Sordariomycetes_jgi|Entma1|238445|gw1.11.251.1,Entoleuca mammata
+Sordariomycetes_jgi|Entma1|239532|gw1.11.327.1,Entoleuca mammata
+Sordariomycetes_jgi|Entma1|241926|gw1.11.472.1,Entoleuca mammata
+Sordariomycetes_jgi|Entma1|248621|e_gw1.11.327.1,Entoleuca mammata
+Sordariomycetes_jgi|Entma1|248969|e_gw1.11.472.1,Entoleuca mammata
+Sordariomycetes_jgi|Entma1|346888|fgenesh1_pg.11_#_101,Entoleuca mammata
+Sordariomycetes_jgi|Entma1|356594|fgenesh1_pm.11_#_76,Entoleuca mammata
+Sordariomycetes_jgi|Entma1|381720|gm1.2813_g,Entoleuca mammata
+Dothideomycetes_jgi|Didsa1|381789|estExt_Genewise1.C_210066,Didymocrea sadasivanii
+Dothideomycetes_jgi|Didsa1|335629|gw1.21.66.1,Didymocrea sadasivanii
+Dothideomycetes_jgi|Didsa1|345328|gw1.21.247.1,Didymocrea sadasivanii
+Dothideomycetes_jgi|Didsa1|357396|e_gw1.21.66.1,Didymocrea sadasivanii
+Dothideomycetes_jgi|Denna1|471682|estExt_Genewise1.C_17_t20010,Dendryphion nanum
+Dhan_DEHA2B13662g,Debaryomyces hansenii
+Sordariomycetes_jgi|Daces1|470291|estExt_Genewise1.C_5_t10192,Dactylonectria estremocensis
+Sordariomycetes_jgi|Daces1|410378|gw1.5.1037.1,Dactylonectria estremocensis
+Sordariomycetes_jgi|Daces1|438036|e_gw1.5.1320.1,Dactylonectria estremocensis
+Sordariomycetes_jgi|Daces1|438495|e_gw1.5.1304.1,Dactylonectria estremocensis
+Sordariomycetes_jgi|Daces1|438930|e_gw1.5.1037.1,Dactylonectria estremocensis
+Sordariomycetes_jgi|Daces1|470292|estExt_Genewise1.C_5_t10193,Dactylonectria estremocensis
+Sordariomycetes_jgi|Daces1|522128|fgenesh1_pg.5_#_116,Dactylonectria estremocensis
+Sordariomycetes_jgi|Daces1|546842|fgenesh1_kg.5_#_235_#_TRINITY_DN6111_c0_g2_i1,Dactylonectria estremocensis
+Sordariomycetes_jgi|Daces1|593925|estExt_fgenesh1_pm.C_5_t10068,Dactylonectria estremocensis
+Sordariomycetes_jgi|Daces1|604900|estExt_fgenesh1_pg.C_5_t10114,Dactylonectria estremocensis
+Sordariomycetes_jgi|Daces1|657903|MIX25329_72829_73,Dactylonectria estremocensis
+Sordariomycetes_jgi|Colac2|683024|estExt_Genewise1.C_1620001,Colletotrichum acutatum
+Sordariomycetes_jgi|Colac2|120385|CE120384_375169,Colletotrichum acutatum
+Sordariomycetes_jgi|Colac2|120420|CE120419_371718,Colletotrichum acutatum
+Sordariomycetes_jgi|Colac2|536182|gw1.162.9.1,Colletotrichum acutatum
+Sordariomycetes_jgi|Colac2|539163|gw1.162.24.1,Colletotrichum acutatum
+Sordariomycetes_jgi|Colac2|590938|e_gw1.162.24.1,Colletotrichum acutatum
+Sordariomycetes_jgi|Colac2|683025|estExt_Genewise1.C_1620002,Colletotrichum acutatum
+Sordariomycetes_jgi|Colac2|710939|estExt_Genewise1Plus.C_1620001,Colletotrichum acutatum
+Sordariomycetes_jgi|Colac2|735205|estExt_fgenesh1_pg.C_1620001,Colletotrichum acutatum
+Sordariomycetes_jgi|Colac2|757365|gm1.11277_g,Colletotrichum acutatum
+Sordariomycetes_jgi|Colac2|765789|MIX6608_730230_65,Colletotrichum acutatum
+Cpos_XP_003070205.1_CoccidioidesPosadasiiC735,Coccidioides posadasii
+Cimm_XP_012214147.1_CoccidioidesImmitisRS,Coccidioides immitis
+Clus_CLUG05303,Clavispora lusitaniae
+Pezizomycetes_jgi|Chove1|1732154|estExt_Genewise1.C_14_t20031,Choiromyces venosus
+Pezizomycetes_jgi|Chove1|1652759|gw1.14.958.1,Choiromyces venosus
+Pezizomycetes_jgi|Chove1|1671213|e_gw1.14.958.1,Choiromyces venosus
+Pezizomycetes_jgi|Chove1|1732155|estExt_Genewise1.C_14_t20032,Choiromyces venosus
+Pezizomycetes_jgi|Chove1|1761525|estExt_Genewise1Plus.C_14_t20010,Choiromyces venosus
+Pezizomycetes_jgi|Chove1|1761526|estExt_Genewise1Plus.C_14_t20011,Choiromyces venosus
+Pezizomycetes_jgi|Chove1|1841465|estExt_fgenesh1_pg.C_140116,Choiromyces venosus
+Pezizomycetes_jgi|Chove1|284508|CE284507_27993,Choiromyces venosus
+Blastocladiomycota_jgi|Catan2|1506241|gm1.11555_g,Catenaria anguillulae
+Blastocladiomycota_jgi|Catan2|1097078|CE97078_6759,Catenaria anguillulae
+Blastocladiomycota_jgi|Catan2|1466814|fgenesh1_pg.199_#_9,Catenaria anguillulae
+Ctro_CTRG02060.3,Candida tropicalis
+Cpar_CPAG02317,Candida parapsilosis
+Cort_emb_CCG25633.1_CandidaOrthopsilosis,Candida orthopsilosis
+Cdub_XP_002418875.1_CandidaDubliniensisCD36,Candida dubliniensis
+Saccharomycotina_jgi|Canar1|10128|gm1.5176_g,Candida arabinofermentans
+Saccharomycotina_jgi|Canar1|204295|e_gw1.26.105.1,Candida arabinofermentans
+Saccharomycotina_jgi|Canar1|226940|estExt_Genewise1.C_260001,Candida arabinofermentans
+Calb_orf19.1358,Candida albicans
+Leotiomycetes_jgi|Cadsp1|482672|estExt_Genewise1.C_110425,Cadophora sp. DSE1049
+Leotiomycetes_jgi|Cadsp1|348442|gw1.11.1.1,Cadophora sp. DSE1049
+Leotiomycetes_jgi|Cadsp1|368976|gw1.11.73.1,Cadophora sp. DSE1049
+Leotiomycetes_jgi|Cadsp1|376699|gw1.11.283.1,Cadophora sp. DSE1049
+Leotiomycetes_jgi|Cadsp1|408286|e_gw1.11.1.1,Cadophora sp. DSE1049
+Leotiomycetes_jgi|Cadsp1|482673|estExt_Genewise1.C_110426,Cadophora sp. DSE1049
+Leotiomycetes_jgi|Cadsp1|567967|estExt_fgenesh1_pg.C_110205,Cadophora sp. DSE1049
+Leotiomycetes_jgi|Cadsp1|583206|gm1.3907_g,Cadophora sp. DSE1049
+Dothideomycetes_jgi|Boeex1|343811|estExt_Genewise1.C_12_t10428,Boeremia exigua
+Dothideomycetes_jgi|Boeex1|294092|gw1.12.534.1,Boeremia exigua
+Dothideomycetes_jgi|Boeex1|319879|e_gw1.12.88.1,Boeremia exigua
+Dothideomycetes_jgi|Boeex1|379886|fgenesh1_pg.12_#_150,Boeremia exigua
+Dothideomycetes_jgi|Boeex1|417203|gm1.9976_g,Boeremia exigua
+Dothideomycetes_jgi|Boeex1|443056|MIX4721_151370_89,Boeremia exigua
+Dothideomycetes_jgi|Boeex1|57114|CE57113_112636,Boeremia exigua
+Dothideomycetes_jgi|Boeex1|57121|CE57120_131214,Boeremia exigua
+Leotiomycetes_jgi|Bissp1|538137|estExt_Genewise1.C_10_t20002,Bisporella sp. PMI857
+Leotiomycetes_jgi|Bissp1|477357|gw1.10.139.1,Bisporella sp. PMI857
+Leotiomycetes_jgi|Bissp1|484122|gw1.10.594.1,Bisporella sp. PMI857
+Leotiomycetes_jgi|Bissp1|505377|e_gw1.10.178.1,Bisporella sp. PMI857
+Leotiomycetes_jgi|Bissp1|505693|e_gw1.10.594.1,Bisporella sp. PMI857
+Leotiomycetes_jgi|Bissp1|538138|estExt_Genewise1.C_10_t20003,Bisporella sp. PMI857
+Leotiomycetes_jgi|Bissp1|591547|fgenesh1_pg.10_#_247,Bisporella sp. PMI857
+Leotiomycetes_jgi|Bissp1|650180|fgenesh1_pm.10_#_172,Bisporella sp. PMI857
+Leotiomycetes_jgi|Bissp1|683677|gm1.4174_g,Bisporella sp. PMI857
+Sordariomycetes_jgi|Bisma1|428518|MIX5561_163825_92,Biscogniauxia marginata
+Sordariomycetes_jgi|Bisma1|383124|fgenesh1_kg.36_#_321_#_TRINITY_DN4796_c3_g3_i1,Biscogniauxia marginata
+Sordariomycetes_jgi|Bisma1|428522|MIX5565_237310_87,Biscogniauxia marginata
+Saccharomycotina_jgi|Babin1|9317|gm1.4150_g,Babjeviella inositovora
+Eurotiomycetes_jgi|Aspwest1|288254|MIX3379_6233_31,Aspergillus westerdijkiae
+Eurotiomycetes_jgi|Aspwest1|288260|MIX3385_40392_79,Aspergillus westerdijkiae
+Eurotiomycetes_jgi|Aspwest1|50292|CE50291_25256,Aspergillus westerdijkiae
+Eurotiomycetes_jgi|Aspwest1|50356|CE50355_26973,Aspergillus westerdijkiae
+Eurotiomycetes_jgi|Asptam1|203219|CE203218_32345,Aspergillus tamarii
+Eurotiomycetes_jgi|Asptam1|289766|fgenesh1_pm.66_#_40,Aspergillus tamarii
+Eurotiomycetes_jgi|Asptam1|301894|gm1.7538_g,Aspergillus tamarii
+Eurotiomycetes_jgi|Aspsublat1|34395|CE34394_106592,Aspergillus sublatus
+Eurotiomycetes_jgi|Aspsublat1|268112|gm1.1967_g,Aspergillus sublatus
+Eurotiomycetes_jgi|Aspsublat1|34407|CE34406_96210,Aspergillus sublatus
+Eurotiomycetes_jgi|Eurhe1|177054|CE166376_321062,Aspergillus ruber
+Eurotiomycetes_jgi|Eurhe1|379875|gm1.6590_g,Aspergillus ruber
+Eurotiomycetes_jgi|Eurhe1|177061|CE166383_590840,Aspergillus ruber
+Eurotiomycetes_jgi|Eurhe1|404906|fgenesh1_pg.25_#_84,Aspergillus ruber
+Eurotiomycetes_jgi|Eurhe1|484251|estExt_Genewise1.C_250212,Aspergillus ruber
+Eurotiomycetes_jgi|Asprhi1|175121|MIX3149_26622_32,Aspergillus rhizopodus
+Eurotiomycetes_jgi|Asprhi1|169610|gm1.6818_g,Aspergillus rhizopodus
+Anig_EHA26660.1_AspergillusNigerATCC1015,Aspergillus niger
+Anid_AN3675,Aspergillus nidulans
+Anid_XP_661279.1_AspergillusNidulansFGSCA4,Aspergillus nidulans
+Eurotiomycetes_jgi|Aspind2_1|119317|CE119316_206355,Aspergillus indicus
+Eurotiomycetes_jgi|Aspind2_1|119373|CE119372_148685,Aspergillus indicus
+Eurotiomycetes_jgi|Aspind2_1|194129|gm1.5048_g,Aspergillus indicus
+Eurotiomycetes_jgi|Aspind2_1|204124|fgenesh1_pm.52_#_2,Aspergillus indicus
+Afum_XP_751584.1_AspergillusFumigatusAf293,Aspergillus fumigatus
+Afla_EED46972.1_AspergillusFlavusNRRL3357,Aspergillus flavus
+Eurotiomycetes_jgi|Aspca3|130068|estExt_Genemark1.C_70116,Aspergillus carbonarius
+Eurotiomycetes_jgi|Aspca3|30931|gw1.7.1062.1,Aspergillus carbonarius
+Eurotiomycetes_jgi|Aspca3|48984|e_gw1.7.1062.1,Aspergillus carbonarius
+Aace_AGO11762.1_SaccharomycetaceaeAshbyaAceri,Ashya aceri
+Saccharomycotina_jgi|Ascru1|144399|CE50859_98448,Ascoidea rubescens
+Saccharomycotina_jgi|Ascru1|80718|fgenesh1_pm.5_#_288,Ascoidea rubescens
+Saccharomycotina_jgi|Ascru1|75671|fgenesh1_kg.5_#_329_#_Locus242v1rpkm674.40,Ascoidea rubescens
+Pezizomycetes_jgi|Ascni1|324869|estExt_Genewise1.C_760001,Ascodesmis nigricans
+Pezizomycetes_jgi|Ascni1|292687|gw1.76.16.1,Ascodesmis nigricans
+Pezizomycetes_jgi|Ascni1|294120|gw1.76.19.1,Ascodesmis nigricans
+Pezizomycetes_jgi|Ascni1|352744|fgenesh1_pg.76_#_1,Ascodesmis nigricans
+Pezizomycetes_jgi|Ascim1|361388|estExt_Genemark1.C_290083,Ascobolus immersus
+Pezizomycetes_jgi|Ascim1|305880|fgenesh1_pg.29_#_83,Ascobolus immersus
+Pezizomycetes_jgi|Ascim1|93291|CE93290_30315,Ascobolus immersus
+Leotiomycetes_jgi|Amore1|20362|gm1.6031_g,Amorphoteca resinae
+Leotiomycetes_jgi|Amore1|104315|e_gw1.8.585.1,Amorphoteca resinae
+Leotiomycetes_jgi|Amore1|104599|e_gw1.8.212.1,Amorphoteca resinae
+Leotiomycetes_jgi|Amore1|123696|estExt_Genewise1.C_8_t20057,Amorphoteca resinae
+Leotiomycetes_jgi|Amore1|29065|fgenesh1_pg.8_#_248,Amorphoteca resinae
+Leotiomycetes_jgi|Amore1|51693|fgenesh1_pm.8_#_255,Amorphoteca resinae
+Leotiomycetes_jgi|Amore1|73911|gw1.8.212.1,Amorphoteca resinae
+Leotiomycetes_jgi|Amore1|79871|gw1.8.585.1,Amorphoteca resinae

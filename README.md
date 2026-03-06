@@ -46,8 +46,11 @@ Figure 2 plots
 `cad_tile_scatter_plots.ipynb`
 - Creates **Figure 5E** scatter plots of property vs. activity for central ADs.  
 
+`gain_loss_Fs_for_paper.ipynb`
+- Performs analysis for **Figure 6**
+
 `Random_N_term_explore.ipynb`  
-- Creates plots in **Figure 6** comparing closely related homologs
+- Creates plots in **Figure 7** comparing closely related homologs
 - Compares pairs of sequences that differ in N-terminal activity.
 - Creates activity traces for these sequences and highlights regions of difference.
 

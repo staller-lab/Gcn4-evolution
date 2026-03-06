@@ -15,7 +15,10 @@ For questions, please email claire.leblanc [at] berkeley.edu
 - dN/dS was analysis run in PAML yn00, loads results and plots distribution
 - Control files and results from PAML are located in the dn_ds folder
 
-Figure 2 plots
+`Controls_oct024.ipynb`
+- Creates plots in **Figure 2**, **Figure S3**, **Figure S4**
+- Barplots for control sequences
+- Reproducibility analysis
 
 `AD_properties Fall 2024.ipynb` 
 - Creates plots for **Figure 3**, **Figure S10, S11**
@@ -34,6 +37,9 @@ Figure 2 plots
 - Creates **Figure 5** plot
 - Loads in simulation results from evolver in PAML and FoldX and summarizes activites
 
+`cerevisiae_neutral_evolution`
+- Example paml control files used to simulate neutral evolution
+  
 `AD_AlignmentDists.ipynb` 
 - Creates **Figure 5**, **Figure S19** plot
 - This script looks at the Edit distances between pairs of sequences. It shows that many changes in sequence do not change activity.
@@ -67,11 +73,6 @@ Figure 2 plots
 
 `counting_motifs.ipynb`
 -  Creates plots in **Figure S2**
-
-`Controls_oct024.ipynb`
-- Creates plots in **Figure S3**, **Figure S4**
-- Barplots for control sequences
-- Reproducibility analysis
   
 `Gaussian_Threshold.ipynb`
 - Creates plots in **Figure S5**

@@ -80,7 +80,7 @@ Figure 2 plots
 `make_activity_traces.ipynb` 
 -  Creates plots in **Figure S6**
 - Plots the trace (along with AD count) for each ful length sequence
-- 
+  
 `predict-tiles.py`
 - Runs FINCHES on tiles and ABD1 domain of Med15
 - Data used in **Figure S7**
@@ -88,6 +88,9 @@ Figure 2 plots
 `finches.ipynb`
 - Creates bar plots in **Figure S7**
 - Compares finches scores for active and non-active tiles
+
+`Gal11_analysis`
+- Contains code and data for analysis in **Figure S8**
   
 `activities_on_species_tree.ipynb`
 - Creates plots in **Figure 14**

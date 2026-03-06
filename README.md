@@ -18,16 +18,16 @@ For questions, please email claire.leblanc [at] berkeley.edu
 Figure 2 plots
 
 `AD_properties Fall 2024.ipynb` 
-- Creates plots for **Figure 3**
+- Creates plots for **Figure 3**, **Figure S10, S11**
 - This script explores how sequence properties, like AA abundance or motif locations, contribute to activation domain activity.
 - Contains main figure panels
 
 `Full_Length_TFs_Heatmaps_Fall 2025 pruned sequences.ipynb`
 - Creates **Figure 4** plot
 - Script to make heatmaps of full-length orthologs with longest sequences removed
-- 
+  
 `Full_Length_TFs_Heatmaps_Fall 2024.ipynb`
-- Creates **Figure 1B**, **Figure 2F,G**, **Figure S1, S12**
+- Creates **Figure 1B**, **Figure 2F,G**, **Figure S1, S12, S26, S27**
 - Script to make heatmaps of full-length orthologs
 
 `evolver_simulations.ipynb` 
@@ -35,7 +35,7 @@ Figure 2 plots
 - Loads in simulation results from evolver in PAML and FoldX and summarizes activites
 
 `AD_AlignmentDists.ipynb` 
-- Creates **Figure 5** plot
+- Creates **Figure 5**, **Figure S19** plot
 - This script looks at the Edit distances between pairs of sequences. It shows that many changes in sequence do not change activity.
   
 `alignment_visualization.ipynb` 

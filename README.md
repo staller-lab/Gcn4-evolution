@@ -92,6 +92,9 @@ For questions, please email claire.leblanc [at] berkeley.edu
 
 `Gal11_analysis`
 - Contains code and data for analysis in **Figure S8**
+
+`Library Composition Boxplots to share.ipynb`
+- Contains code to create **Figure S9**
   
 `activities_on_species_tree.ipynb`
 - Creates plots in **Figure 14**
